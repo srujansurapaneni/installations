@@ -1,3 +1,4 @@
-1. install vs buildtools
+-- 1. install vs buildtools (optional)
 2. install vs
-3. install cuda
+3. install Visuall C++ redisributables/compilers for VS version above 
+4. install cuda
