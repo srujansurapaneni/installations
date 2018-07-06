@@ -1,4 +1,5 @@
 -- 1. install vs buildtools (optional)
-2. install vs
+2. install vs (2015)
 3. install Visuall C++ redisributables/compilers for VS version above 
 4. install cuda
+5. install cuda patch (reinstall this incase of repairs)
